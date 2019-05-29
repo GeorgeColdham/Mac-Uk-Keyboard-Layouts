@@ -14,7 +14,8 @@ A couple of Keyboard layouts for UK (ISO) standard keyboards for when used with 
 
 ## Tips
 ### Menu Icon
-This process will change the layout of the inbuilt keyboard on a MacBook, if you wish to quickly revert back to the standard keyboard then enable `Show Input menu in menu bar` from the `Input Sources` tab. ![](images/show_input_in_menu.png) This will display an icon to quickly switch between keyboard layouts.
+This process will change the layout of the inbuilt keyboard on a MacBook, if you wish to quickly revert back to the standard keyboard then enable `Show Input menu in menu bar` from the `Input Sources` tab. ![](images/show_input_in_menu.png)
+This will display an icon to quickly switch between keyboard layouts.
 
 ![](images/menu_icon.png)
 
